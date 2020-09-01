@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("var people = [{\n  name: 'Jack',\n  age: 50\n}, {\n  name: 'Michael',\n  age: 9\n}, {\n  name: 'John',\n  age: 40\n}, {\n  name: 'Ann',\n  age: 19\n}, {\n  name: 'Elisabeth',\n  age: 16\n}];\n\nfunction teenager(person) {\n  return person.age > 10 && person.age < 20;\n}\n\nvar thereAreTeenagers = people.some(teenager);\nconsole.log('There are teenagers:', thereAreTeenagers);\ndocument.write('There are teenagers:', thereAreTeenagers);\nalert(\"hola mundo\");\n\n//# sourceURL=webpack:///./src/check.js?");
+eval("var people = [{\n  name: 'Jack',\n  age: 50\n}, {\n  name: 'Michael',\n  age: 9\n}, {\n  name: 'John',\n  age: 40\n}, {\n  name: 'Ann',\n  age: 19\n}, {\n  name: 'Elisabeth',\n  age: 16\n}];\n\nfunction teenager(person) {\n  return person.age > 10 && person.age < 20;\n}\n\nvar thereAreTeenagers = people.some(teenager);\nconsole.log('There are teenagers:', thereAreTeenagers);\ndocument.write('There are teenagers:', thereAreTeenagers);\n\n//# sourceURL=webpack:///./src/check.js?");
 
 /***/ }),
 

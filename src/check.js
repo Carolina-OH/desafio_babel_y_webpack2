@@ -11,4 +11,3 @@ var people = [
     var thereAreTeenagers = people.some(teenager)
     console.log('There are teenagers:', thereAreTeenagers)
     document.write('There are teenagers:', thereAreTeenagers)
-    alert("hola mundo")
