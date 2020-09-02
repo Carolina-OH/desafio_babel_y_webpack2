@@ -1,5 +1,5 @@
 {
-  "name": "Iniciando_un_proyecto_con_Babel",
+  "name": "iniciando_un_proyecto_con_babel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,5 +17,6 @@
     "babel-loader": "^8.1.0",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
-  }
+  },
+  "dependencies": {}
 }
